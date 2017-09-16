@@ -5,16 +5,16 @@
 
 <ul>
 	<li>
-		<a href="https://guides.github.com/">Различные гайды по github от github :)</a>
+		<a target="_blank" href="https://guides.github.com/">Различные гайды по github от github :)</a>
 	</li>
 	<li>
-		<a href="https://www.youtube.com/watch?v=0fKg7e37bQE">Видео про основы работы в командной строке</a> и <a href="https://www.youtube.com/watch?v=oFYyTZwMyAg">видео про branching, merging, pull requests в командной строке</a>
+		<a target="_blank" href="https://www.youtube.com/watch?v=0fKg7e37bQE">Видео про основы работы в командной строке</a> и <a href="https://www.youtube.com/watch?v=oFYyTZwMyAg">видео про branching, merging, pull requests в командной строке</a>
 	</li>
 	<li>
-		<a href="https://www.codeschool.com/courses/try-git">Курс Try-git от codeschool</a>
+		<a target="_blank" href="https://www.codeschool.com/courses/try-git">Курс Try-git от codeschool</a>
 	</li>
 	<li>
-		<a href="https://desktop.github.com/">Github Desktop</a>
+		<a target="_blank" href="https://desktop.github.com/">Github Desktop</a>
 	</li>
 </ul>
 
@@ -24,7 +24,7 @@
 
 Пусть Иван Иванов из 4 сложной группы хочет сдать практическое задание №01 через github:
 
-- Шаг 1.А: Чтобы вносить изменения в мой репозиторий из своего и отслеживать в нем изменения удобно делать fork (<a href="https://guides.github.com/activities/forking/#making-changes">туториал по fork</a>). Если вы его еще не сделали, то в окне моего репозитория нажимаем в верхнем правом углу на fork. После этого в вашем github-профиле создается полная копия моего репозитория.
+- Шаг 1.А: Чтобы вносить изменения в мой репозиторий из своего и отслеживать в нем изменения удобно делать fork (<a target="_blank  href="https://guides.github.com/activities/forking/#making-changes">туториал по fork</a>). Если вы его еще не сделали, то в окне моего репозитория нажимаем в верхнем правом углу на fork. После этого в вашем github-профиле создается полная копия моего репозитория.
 
 - Шаг 1.Б: Если же вы уже создали ответвление на свой профиль, то перед любыми манипуляциями с вашим репозиторием нужно обязательно перенести все изменения из моего репозитория в вашу копию, чтобы не возникало merge конфликтов (пример такого конфликта: вы и я внесли изменения в одну и ту же строчку одного и того же файла). Для этого вам нужно создать Pull request на внесение изменений из моего репозитория в вашу копию. В качестве base fork указывайте вашу копию и ту ветку, куда вы хотите скопировать мой репозиторий (по умолчанию master), а в качестве head -- мой репозиторий, также ветку master. Затем нажимайте View pull request. Если не возникает конфликтов, то нажимаем Merge pull request. 
 
